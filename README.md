@@ -1,23 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/SNy-35QS)
+<<<<<<< HEAD
+# Final Project - Nocturna: Emblem Classifier
+=======
 # Final Project
+>>>>>>> parent of 3e1165b (Add assignment deadline url)
 
-This is a **group assignment**.
+## The following files should be inside this zip folder:
 
-## Code Implementation & Technical Report
+  - `environment.yml` - to setup the conda environment
+  - `experiments.ipynb` - the file in which we tested our models and decided on the best one
+  - `training_functionipynb` - the file used to train and tune the hyperparameters of **Nocturna** our emblem classifier 
+  - `NocturnaEmblemClassifierV3.h5` - our final exported model named **Nocturna** 
+  - `test_function.ipynb` - in this file the test data can be loaded, please just input the file path in the `np.load('<FILE PATH>')` function
+  - `test_hard_function.ipynb` - in this file the HARD test data can be loaded, please just input the file path in the `np.load('<FILE PATH>')` function
+  - `nocturna_report.pdf` - this PDF explains the development of **Nocturna**, and the thinking process behind the emblem classifier 
 
-The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
-
-The final project is due Thursday, August 10 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/479518/assignments/5648186) in the Canvas assignment.
-
-## Training Data
-
-The training data set is the same for every team in this course.
-
-You can download the training data from the Canvas page:
-
-* ["data_train.npy"](https://ufl.instructure.com/files/78912869/download?download_frd=1)
-* ["labels_train.npy"](https://ufl.instructure.com/files/78911726/download?download_frd=1)
-
-## Edit this READ-ME
-
-Please edit this read-me file with information about your project. You can find a [READ-ME template here](https://github.com/catiaspsilva/README-template).
+by: David Langus Rodriguez, Jorge Luis Alberto, Rebecca G. Hart
