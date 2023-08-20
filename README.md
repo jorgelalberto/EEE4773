@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # Final Project - Nocturna: Emblem Classifier
-=======
+
 # Final Project
->>>>>>> parent of 3e1165b (Add assignment deadline url)
 
 ## The following files should be inside this zip folder:
 
