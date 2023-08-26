@@ -13,6 +13,7 @@
   - `nocturna_report.pdf` - this PDF explains the development of **Nocturna**, and the thinking process behind the emblem classifier 
 
 ## Model Architecture
-![CNNdiagram](https://github.com/jorgelalberto/Nocturna-Emblem-Classifier/assets/92881097/1730ccc0-6890-4970-b302-4a3ca8fbd8bf)
+![CNNdiagram](https://github.com/jorgelalberto/Nocturna-Emblem-Classifier/assets/92881097/7fcd361b-c7ce-442d-bc89-f92c43a2a301)
+Note: Applying Transfer Learning through EfficientNetB7 is shown to output a depth of 64. But this is only for display purposes, in actuality the depth is 2560.
 
 by: David Langus Rodriguez, Jorge Luis Alberto, Rebecca G. Hart
